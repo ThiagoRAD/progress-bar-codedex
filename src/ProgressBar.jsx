@@ -1,4 +1,5 @@
 export const ProgressBar = (props) => {
+
   return (
     <div>
       <h1>Progress Bar</h1>
